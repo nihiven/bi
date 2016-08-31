@@ -1,0 +1,1 @@
+ <po> need to know if watchdog uses the windows hooks, if it sees changes in subfolders, and whether or not the windows library will identify changes (or at least new files) on network drives
